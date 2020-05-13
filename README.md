@@ -11,6 +11,16 @@
 4- https://www.youtube.com/watch?v=jD9saG2-AWA
  ```
  
+ # Trucos de programación
+  ```
+ https://github.com/Odoo-10-test/trucos_odoo
+  ```
+  
+# Modulos de 3ros para que revisar código
+ ```
+  https://apps.odoo.com/apps/modules
+ ```
+ 
  # Contacto
   ``` 
  Marlon Falcón Hernández | Madrid, España
