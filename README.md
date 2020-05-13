@@ -1,27 +1,27 @@
-# Videos para un funcional
+# Videos para un funcional.
  ``` 
 1- https://www.youtube.com/watch?v=TNkiOZY8MhE&t=783s
  ``` 
  
  
-# Videos para un programador
+# Videos para un programador.
  ``` 
 2- https://www.youtube.com/watch?v=npjC2r2iCqg&t=311s
 3- https://www.youtube.com/watch?v=hrZah_gtYNc&t=15s
 4- https://www.youtube.com/watch?v=jD9saG2-AWA
  ```
  
- # Trucos de programación
+ # Trucos de programación.
   ```
  https://github.com/Odoo-10-test/trucos_odoo
   ```
   
-# Modulos de 3ros para que revisar código
+# Modulos de 3ros para revisar código.
  ```
   https://apps.odoo.com/apps/modules
  ```
  
- # Contacto
+ # Contacto.
   ``` 
  Marlon Falcón Hernández | Madrid, España
 » ERP, CRM y Software
